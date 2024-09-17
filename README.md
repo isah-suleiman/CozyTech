@@ -123,18 +123,24 @@ This section provides a concise overview of the key measures, while the appendix
 ###  Key Findings and Insights  
 Visualizations: Dashboards included interactive charts and tables for:  
 - Operational Analysis: Identified key downtime metrics, such as total quantity in stock and average production time.
+---
 ![Overview](Images/cozy_page-0001.jpg)
 - Production Downtime Analysis: Identified key downtime causes, such as material shortages and equipment malfunctions.
+---
 ![Overview](Images/cozy_page-0006.jpg)
 - Employee Performance Metrics: Highlighted the top-performing employees and shifts with the highest productivity.
+---
 ![Overview](Images/cozy_page-0004.jpg)
 - Supplier Performance: Showed variations in lead times and pinpointed unreliable suppliers.
+---
 ![Overview](Images/cozy_page-0005.jpg) 
 - Inventory Management: Tracked stock levels to avoid shortages and overstocking.
+---
 ![Overview](Images/cozy_page-0002.jpg)
 - Quality Metrics and Energy Consumption**: Identified the number of products that met the required quality standards and analyzed the range of energy consumption across production.
+---
 ![Overview](Images/cozy_page-0003.jpg)
-Recommendations:  
+### Recommendations:  
 - Implement predictive maintenance strategies to reduce equipment breakdowns.  
 - Reevaluate relationships with underperforming suppliers to streamline the supply chain.  
 - Optimize production schedules based on employee performance and downtime data.
@@ -155,5 +161,6 @@ Business Impact: This analysis provided Cozy Tech's leadership with actionable i
 Summary: This project demonstrated how data-driven decision-making can address critical operational challenges and drive significant business improvements by leveraging Power BI's real-time reporting capabilities.
 
 
-### 8. Link to Project Files  
-GitHub Repository: [Link to the project files](#)
+### Link to Project Files  
+Power BI Report: [View Report](docs/CozyTech.pdf)
+
