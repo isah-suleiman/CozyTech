@@ -1,12 +1,12 @@
 ### Real-Time Data Analysis and Visualization for Operational Efficiency at Cozy Tech
 
-This project aimed to enhance operational efficiency at Lai Manufacturing Plc by analyzing and visualizing data in real time using Power BI. My role involved collecting, transforming, and analyzing data to identify areas for improvement, such as reducing production downtime, optimizing processes, and improving inventory management. The final deliverable was a set of interactive dashboards that empowered decision-makers with actionable insights. This project highlights Power BI’s capabilities to drive efficiency through data-driven analysis.
+This project aimed to enhance operational efficiency at Cozy Tech by analyzing and visualizing data in real-time using Power BI. My role involved collecting, transforming, and analyzing data to identify areas for improvement, such as reducing production downtime, optimizing processes, and improving inventory management. The final deliverable was a set of interactive dashboards that empowered decision-makers with actionable insights. This project highlights Power BI’s capabilities to drive efficiency through data-driven analysis.
 
 
 ### Problem Statement  
 Cozy Tech faced challenges in improving operational efficiency, such as unexpected production downtime, inefficient processes, unintuitive reports, and difficulties in inventory management and supply chain coordination. These problems hindered decision-making and impacted the company’s bottom line.
 
-Goal: The project aimed to create real-time, intuitive dashboards to enable Lai Manufacturing Plc's leadership to make informed, data-driven decisions that would optimize processes, minimize downtime, and improve overall operational performance.
+Goal: The project aimed to create real-time, intuitive dashboards to enable Cozy Tech's leadership to make informed, data-driven decisions that would optimize processes, minimize downtime, and improve overall operational performance.
 
 
 
@@ -21,7 +21,7 @@ Data Preparation:
 ### **Analysis Process**  
 **Tools and Techniques**:  
 - **Power BI** for data modelling, visualization, and report creation.  
-- **DAX** for writing complex measures to calculate KPIs, such as downtime reasons, employee performance, and production efficiency.  
+- **DAX** is used to write complex measures to calculate KPIs, such as downtime reasons, employee performance, and production efficiency.  
 - **Power Automate** for data refreshes to ensure real-time reporting.
 
 **DAX Measures**:  
